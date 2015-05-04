@@ -1,0 +1,50 @@
+{
+  "name": "turkish-id",
+  "version": "0.1.0",
+  "description": "Turkish ID Number validator (T.C. Kimlik No dogrulayici)",
+  "main": "dist/turkish-id.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tameraydin/turkish-id.git"
+  },
+  "keywords": [],
+  "author": "Tamer Aydin (http://tamerayd.in)",
+  "contributors": [
+    {
+      "name": "Tamer Aydin",
+      "url": "http://tamerayd.in"
+    }
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tameraydin/turkish-id/issues"
+  },
+  "homepage": "https://github.com/tameraydin/turkish-id",
+  "jshintConfig": {
+    "strict": false,
+    "globalstrict": true,
+    "unused": true,
+    "predef": []
+  },
+  "engines": {
+    "node" : ">=0.8 <=0.12"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "coveralls": "^2.11.2",
+    "del": "^1.1.1",
+    "gulp": "^3.8.10",
+    "gulp-header": "^1.2.2",
+    "gulp-istanbul": "^0.6.0",
+    "gulp-jasmine": "^2.0.0",
+    "gulp-jshint": "^1.9.2",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.1.0",
+    "jasmine-node": "^1.14.5",
+    "jshint-stylish": "^1.0.0",
+    "run-sequence": "^1.0.2"
+  }
+}

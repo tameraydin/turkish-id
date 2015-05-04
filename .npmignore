@@ -1,0 +1,9 @@
+bower_components
+coverage
+test
+src
+.editorconfig
+.gitignore
+.travis.yml
+gulpfile.js
+bower.json

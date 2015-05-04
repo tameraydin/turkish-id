@@ -1,0 +1,31 @@
+{
+  "name": "turkish-id",
+  "version": "0.1.0",
+  "description": "Turkish ID Number validator (T.C. Kimlik No dogrulayici)",
+  "main": "dist/turkish-id.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tameraydin/turkish-id.git"
+  },
+  "keywords": [],
+  "ignore": [
+    "node_modules",
+    "coverage",
+    "test",
+    "src",
+    ".editorconfig",
+    ".gitignore",
+    ".npmignore",
+    ".travis.yml",
+    "gulpfile.js",
+    "package.json"
+  ],
+  "authors": [
+    {
+      "name": "Tamer Aydin",
+      "homepage": "http://tamerayd.in"
+    }
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tameraydin/turkish-id"
+}
