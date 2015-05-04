@@ -1,5 +1,4 @@
-### Turkish ID Number validator & generator 
-#### (T.C. Kimlik No doğrulayıcı & oluşturucu)
+### Turkish ID Number validator (T.C. Kimlik No doğrulayıcı)
 
 ```bash
 npm install turkish-id
@@ -15,6 +14,6 @@ var aRandomId = turkishId.generate();
 turkishId.validate(aRandomId); // true
 ```
 
-## License
+#### License
 
 MIT [http://tameraydin.mit-license.org/](http://tameraydin.mit-license.org/)
