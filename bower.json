@@ -7,7 +7,14 @@
     "type": "git",
     "url": "https://github.com/tameraydin/turkish-id.git"
   },
-  "keywords": [],
+  "keywords": [
+    "turkish",
+    "id",
+    "validator",
+    "tc",
+    "kimlik",
+    "dogrulayici"
+  ],
   "ignore": [
     "node_modules",
     "coverage",
