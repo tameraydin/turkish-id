@@ -1,6 +1,6 @@
 {
   "name": "turkish-id",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Turkish ID Number validator (T.C. Kimlik No dogrulayici)",
   "main": "dist/turkish-id.js",
   "scripts": {

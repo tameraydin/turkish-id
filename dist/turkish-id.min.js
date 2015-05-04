@@ -1,5 +1,5 @@
 /**
- * turkish-id v0.1.0 (https://github.com/tameraydin/turkish-id)
+ * turkish-id v0.1.1 (https://github.com/tameraydin/turkish-id)
  * Copyright 2015 Tamer Aydin (http://tamerayd.in)
  * Licensed under MIT
  */
